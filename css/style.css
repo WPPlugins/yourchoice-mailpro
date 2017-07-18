@@ -1,0 +1,48 @@
+
+/*
+ * CSS for the Frontend of YourChoice MailPro plugin.
+ */
+
+#yourchoice_mailpro {
+	clear: left;
+	position: relative;
+}
+
+#yourchoice_mailpro span {
+	display: inline;
+}
+
+.yourchoice_mailpro_float .label,
+.yourchoice_mailpro_float .input {
+	float: left;
+}
+
+#yourchoice_mailpro .label,
+#yourchoice_mailpro .input {
+	vertical-align: top;
+}
+
+#yourchoice_mailpro .label {
+	width: 30%;
+}
+
+#yourchoice_mailpro .input {
+	width: 40%;
+}
+
+#yourchoice_mailpro .input input[type="text"],
+#yourchoice_mailpro .input input[type="email"] {
+	width: 100%;
+}
+
+#yourchoice_mailpro .clearBoth {
+	clear: both;
+}
+
+#yourchoice_mailpro .success {
+	color: green;
+}
+	
+#yourchoice_mailpro .error {
+	color: red;
+}

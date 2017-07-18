@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: YourChoice MailPro\n"
+"POT-Creation-Date: 2016-04-01 14:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: YourChoice Informatik GmbH <wordpress@yourchoice.ch>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-WPHeader: yourchoice-mailpro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "Main Settings"
+msgstr ""
+
+msgid "Address Book"
+msgstr ""
+
+msgid "Submit Button Text"
+msgstr ""
+
+msgid "Success Message"
+msgstr ""
+
+msgid "Error Message"
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "Basic Settings"
+msgstr ""
+
+msgid "MailPro APIKey"
+msgstr ""
+
+msgid "MailPro IDClient"
+msgstr ""
+
+msgid "YourChoice MailPro"
+msgstr ""
+
+msgid "Please set APIKey and IDClient first"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Include"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Field"
+msgstr ""
+
+msgid "You have successfully registered!"
+msgstr ""
+
+msgid "Registration failed!"
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "A MailPro API interface to add email addresses into a MailPro address book"
+msgstr ""
+
+msgid "Displays the YourChoice MailPro Subscription Form"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "edit other settings"
+msgstr ""
+
+msgid "API Error! Please check your APIKey and IDClient"
+msgstr ""
+
+msgid "edit basic settings"
+msgstr ""
+
+msgid "Error parsing email line 1: Invalid email"
+msgstr ""
+
+msgid "Internal server error."
+msgstr ""
+
+msgid "YourChoice MailPro (subscribers)"
+msgstr ""
+
+msgid "You have"
+msgstr ""
+
+msgid "subscriber"
+msgstr ""
+
+msgid "subscribers"
+msgstr ""

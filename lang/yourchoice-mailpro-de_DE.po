@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: YourChoice MailPro\n"
+"POT-Creation-Date: 2016-04-04 13:12+0200\n"
+"Language-Team: YourChoice Informatik GmbH <wordpress@yourchoice.ch>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-WPHeader: yourchoice-mailpro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "Main Settings"
+msgstr "Haupteinstellungen"
+
+msgid "Address Book"
+msgstr "Adressbuch"
+
+msgid "Submit Button Text"
+msgstr "Submit Button Text"
+
+msgid "Success Message"
+msgstr "Meldung bei Erfolg"
+
+msgid "Error Message"
+msgstr "Meldung bei Fehler"
+
+msgid "Fields"
+msgstr "Felder"
+
+msgid "Basic Settings"
+msgstr "Grundeinstellungen"
+
+msgid "MailPro APIKey"
+msgstr "MailPro APIKey"
+
+msgid "MailPro IDClient"
+msgstr "MailPro IDClient"
+
+msgid "YourChoice MailPro"
+msgstr "YourChoice MailPro"
+
+msgid "Please set APIKey and IDClient first"
+msgstr "Bitte setzen Sie zuerst APIKey und IDClient"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Tag"
+msgstr "Bezeichnung"
+
+msgid "Include"
+msgstr "Einschliessen"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Field"
+msgstr "Feld"
+
+msgid "You have successfully registered!"
+msgstr "Sie haben sich erfolgreich registriert!"
+
+msgid "Registration failed!"
+msgstr "Registrierung fehlgeschlagen!"
+
+msgid "Subscribe"
+msgstr "Eintragen"
+
+msgid "A MailPro API interface to add email addresses into a MailPro address book"
+msgstr "Eine MailPro API Schnittstelle, um E-Mail Adressen zu einem MailPro Adressbuch hinzuzufügen"
+
+msgid "Displays the YourChoice MailPro Subscription Form"
+msgstr "Zeigt das YourChoice MailPro Eintragungsformular"
+
+msgid "Title:"
+msgstr "Titel:"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Save Changes"
+msgstr "Änderungen Speichern"
+
+msgid "edit other settings"
+msgstr "andere Einstellungen bearbeiten"
+
+msgid "API Error! Please check your APIKey and IDClient"
+msgstr "API Fehler! Bitte prüfen Sie APIKey und IDClient"
+
+msgid "edit basic settings"
+msgstr "Grundeinstellungen bearbeiten"
+
+msgid "Error parsing email line 1: Invalid email"
+msgstr "Ungültige E-Mail Adresse"
+
+msgid "Internal server error."
+msgstr "Interner Server Fehler"
+
+msgid "YourChoice MailPro (subscribers)"
+msgstr "YourChoice MailPro (Abonnenten)"
+
+msgid "You have"
+msgstr "Sie haben"
+
+msgid "subscriber"
+msgstr "Abonnent"
+
+msgid "subscribers"
+msgstr "Abonnenten"
